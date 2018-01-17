@@ -6,5 +6,7 @@
 3 - in your terminal run this command `npm install`. <br />
 3 - then run `npm start`. <br />
 4 - In your brwoser open `http://localhost:3000`. <br />
- 
+
+#### [Demo](https://flickr-api3.herokuapp.com/)
+
 Thanks
