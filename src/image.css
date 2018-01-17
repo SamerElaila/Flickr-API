@@ -1,0 +1,17 @@
+.image {
+  width: 30%;
+  min-width: 300px;
+  margin: 1%;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.image:hover {
+  cursor: pointer;
+}
+
+.image img {
+  height: 100%;
+  width: 100%;
+}

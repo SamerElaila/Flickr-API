@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.header {
+  padding: 10px;
+  margin: auto;
+  background-color: #272628;
+}
+
+.logo {
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  font-weight: bolder;
+}
