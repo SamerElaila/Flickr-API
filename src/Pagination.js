@@ -60,6 +60,4 @@ Pagination.propTypes = {
   currentPage: PropTypes.number
 };
 
-// العهد 29 , المحارب 28
-
 export default Pagination;
